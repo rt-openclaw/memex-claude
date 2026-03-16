@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/jim80net/memex-claude/compare/v1.4.1...v1.5.0) (2026-03-16)
+
+
+### Features
+
+* GEPA sleep/deep-sleep + query attribution ([#34](https://github.com/jim80net/memex-claude/issues/34)) ([7761eb4](https://github.com/jim80net/memex-claude/commit/7761eb410c320a4b6a2de152faf38c7ebd7601aa))
+
 ## [1.4.1](https://github.com/jim80net/memex-claude/compare/v1.4.0...v1.4.1) (2026-03-16)
 
 
